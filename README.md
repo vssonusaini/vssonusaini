@@ -1,5 +1,5 @@
 <p align="center">
-<svg width="100%" height="" viewBox="0 0 1280 307" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="4rem" viewBox="0 0 1280 307" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="1121.01" cy="217.239" r="27.6618" stroke="#D4E1F3" stroke-linecap="round"/>
 <path d="M1120.58 204.281V292.049" stroke="#D4E1F3" stroke-linecap="round"/>
 <path d="M1120.58 223.588L1130.88 213.286" stroke="#D4E1F3" stroke-linecap="round"/>

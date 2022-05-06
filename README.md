@@ -1,8 +1,4 @@
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
 
 [![Sonu Saini' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vssonusaini&custom_title=Sonu%20Saini%27s%20Contribution%20Graph&theme=react-light&bg_color=fff&hide_border=true&line=000&point=000&color=000)](https://sainisahab.com/)
 

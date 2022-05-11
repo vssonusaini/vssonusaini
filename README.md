@@ -1,3 +1,4 @@
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 
 [![Sonu Saini' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vssonusaini&custom_title=Sonu%20Saini%27s%20Contribution%20Graph&theme=react-light&bg_color=fff&hide_border=true&line=000&point=000&color=000)](https://sainisahab.com/)

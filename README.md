@@ -4,7 +4,7 @@
 
 Hi! I am Sonu Saini, a web designer/developer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2018. I enjoy creating beautifully designed, intuitive and functional websites.
 
-[![Linkedin Badge](https://img.shields.io/badge/-VSSonuSaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vssonusaini/)](https://www.linkedin.com/in/vssonusaini/)
+[![Linkedin Badge](https://img.shields.io/badge/-VSSonuSaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vs-sonu-saini/)](https://www.linkedin.com/in/vssonusaini/)
 [![Instagram Badge](https://img.shields.io/badge/-official.vs.saini-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/official.vs.saini/)
 [![Website Badge](https://img.shields.io/badge/-sainisahab.com-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jayraj.co.in/)](https://sainisahab.com/)
 [![Gmail Badge](https://img.shields.io/badge/-vssonusaini464-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:vssonusaini464@gmail.com)

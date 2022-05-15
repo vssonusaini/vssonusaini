@@ -29,7 +29,7 @@ Hi! I am Sonu Saini, a web designer/developer focused on crafting great web expe
   #
   [![Sonu Saini' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vssonusaini&custom_title=Sonu%20Saini%27s%20Contribution%20Graph&theme=react-light&bg_color=fff&hide_border=true&line=000&point=000&color=000)](https://sainisahab.com/)
 
-
+  ![Snake animation](https://github.com/vssonusaini/vssonusaini/blob/output/github-contribution-grid-snake.svg)
 #
 
 <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />

@@ -1,8 +1,14 @@
-[![Sonu Saini' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vssonusaini&custom_title=Sonu%20Saini%27s%20Contribution%20Graph&theme=react-light&bg_color=fff&hide_border=true&line=000&point=000&color=000)](https://sainisahab.com/)
+![](https://raw.githubusercontent.com/vssonusaini/vssonusaini/main/header_.png)
+# Hello there 👋  
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+Hi! I am Sonu Saini, a web designer/developer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2018. I enjoy creating beautifully designed, intuitive and functional websites.
+
+[![Linkedin Badge](https://img.shields.io/badge/-VSSonuSaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vs-sonu-saini/)](https://www.linkedin.com/in/vssonusaini/)
+[![Instagram Badge](https://img.shields.io/badge/-official.vs.saini-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/official.vs.saini/)
+[![Website Badge](https://img.shields.io/badge/-sainisahab.com-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jayraj.co.in/)](https://sainisahab.com/)
+[![Gmail Badge](https://img.shields.io/badge/-vssonusaini464-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:vssonusaini464@gmail.com)
+
+#
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -18,16 +24,18 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  
+  #
+  
+  [![Sonu Saini' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vssonusaini&custom_title=Sonu%20Saini%27s%20Contribution%20Graph&theme=react-light&bg_color=fff&hide_border=true&line=000&point=000&color=000)](https://sainisahab.com/)
+#
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+![Snake animation](https://github.com/vssonusaini/vssonusaini/blob/output/github-contribution-grid-snake.svg)
+ 
+#
 
-### :link: &nbsp;Contact Info
+<img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<p align="center">
-<a href="https://sainisahab.com/"><img src="https://img.shields.io/badge/-sainisahab.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vs-sonu-saini/"><img src="https://img.shields.io/badge/-Sonu%20Saini-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/vssonusaini"><img src="https://img.shields.io/badge/-VSSONUSAINI-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
-</p>
+Credit: [V S Sonu Saini](https://github.com/vssonusaini)
 
+Last Edited on: 21/05/2021

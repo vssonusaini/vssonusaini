@@ -26,9 +26,9 @@ Hi! I am Sonu Saini, a web designer/developer focused on crafting great web expe
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
-  #
+<!--   #
   
-  [![Sonu Saini' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vssonusaini&custom_title=Sonu%20Saini%27s%20Contribution%20Graph&theme=react-light&bg_color=fff&hide_border=true&line=000&point=000&color=000)](https://sainisahab.com/)
+  [![Sonu Saini' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vssonusaini&custom_title=Sonu%20Saini%27s%20Contribution%20Graph&theme=react-light&bg_color=fff&hide_border=true&line=000&point=000&color=000)](https://sainisahab.com/) -->
 #
 
 ![Snake animation](https://github.com/vssonusaini/vssonusaini/blob/output/github-contribution-grid-snake.svg)

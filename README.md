@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/vssonusaini/vssonusaini/main/header_.png)
+![](https://raw.githubusercontent.com/vssonusaini/vssonusaini/main/header.png)
 
 # Hello there 👋
 

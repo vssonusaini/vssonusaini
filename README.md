@@ -32,7 +32,7 @@ Hi! I am Sonu Saini, a web designer/developer focused on crafting great web expe
 
 #
 
-![Snake animation](https://github.com/vssonusaini/vssonusaini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/vssonusaini/vssonusaini/50a908764269e803cac52b3fd815d0a9b94a688f/github-contribution-grid-snake-dark.svg)
 
 #
 
